@@ -1,5 +1,4 @@
 # data_scientist_telecom
-
 Pendahuluan 
 Perusahaan menawarkan klien dua paket prabayar, Surf dan Ultimate. Departemen periklanan ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan untuk menyesuaikan anggaran iklan.
 
