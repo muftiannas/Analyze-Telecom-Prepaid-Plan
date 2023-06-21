@@ -1,15 +1,14 @@
 # Analyze Telecom Prepaid Plan
-# Pendahuluan <a id='Pendahuluan'></a>
 
-Perusahaan menawarkan klien dua paket prabayar, Surf dan Ultimate. Departemen periklanan ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan untuk menyesuaikan anggaran iklan.
+The company offers clients two prepaid packages, Surf and Ultimate. The advertising department wants to know which prepaid plan generates more revenue to adjust the advertising budget.
 
-Dalam proyek ini akan dilakukan analisa perilaku klien dan menentukan paket prabayar mana yang mendatangkan lebih banyak pendapatan. Juga dilakukan Hipotesis berikut :
+This project will analyze client behavior and determine which prepaid plans bring in more revenue. The following hypothesis is also carried out:
 
-1. Rata-rata pendapatan dari pengguna paket telepon Ultimate dan Surf berbeda.
-2. Rata-rata pendapatan dari pengguna di wilayah NY-NJ berbeda dengan pendapatan pengguna dari wilayah lain.
+1. The average income of users of Ultimate and Surf phone plans is different.
+2. The average income of users in the NY-NJ area is different from the income of users from other regions.
 
-Untuk mencapai tujuan hipotesis diatas dilakukan beberapa langkah berikut :
-1. Membaca Data dan Informasi Umum
-2. Menyiapkan dan Memperbaiki Data
-3. Menganalisa Data
-4. Menguji Hipotesis
+To achieve the objectives of the hypothesis above, the following steps are carried out:
+1. Read Data and General Information
+2. Preparing and Correcting Data
+3. Analyzing Data
+4. Testing the Hypothesis
